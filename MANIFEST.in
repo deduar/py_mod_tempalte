@@ -1,0 +1,2 @@
+include basic_template
+ecursive-include basic_template *.*
